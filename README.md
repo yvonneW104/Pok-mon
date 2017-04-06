@@ -1,6 +1,6 @@
 # Pokemon
 
-#### University of Washington Winter 2016 EE 472
+#### University of Washington Winter 2016 EE/CS 371
 
 **Team Member:** Ying Wang, Junyi Zhu, Zhuoer Wang
 
